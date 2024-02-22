@@ -1,4 +1,4 @@
-Intedned to solve a problem i had.
+Intended to solve a problem i had.
 If it helps you that's nice !
 If you need help with this code don't hesitate to ask.
 
