@@ -1,3 +1,7 @@
+Intedned to solve a problem i had.
+If it helps you that's nice !
+If you need help with this code don't hesitate to ask.
+
 Copy the python file in the same directory as the one you want to sort 
 as 
 Dir
@@ -10,3 +14,4 @@ Just call the script with
 the [directory to sort should be the name of the directory as in the example ```To_sort```
 
 feel free to use/change/share/upgrade this code.
+This i sa free to use/share/commercialize code. 
